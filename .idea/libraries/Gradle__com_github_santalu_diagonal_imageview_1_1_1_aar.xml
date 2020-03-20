@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.santalu:diagonal-imageview:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca9a322357e3d972ee244be3bbf65ed2/jetified-diagonal-imageview-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca9a322357e3d972ee244be3bbf65ed2/jetified-diagonal-imageview-1.1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.santalu/diagonal-imageview/1.1.1/49ef249f9480c5be0054ef6e32dc5c0f03d777d1/diagonal-imageview-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
